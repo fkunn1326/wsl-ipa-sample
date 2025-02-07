@@ -67,6 +67,7 @@ ipaの実体はただの`.zip`なので、以下のようなフォルダ構成�
             ├─ AppIconXXxXX.png
             └─ Info.plist
 ```
+[build.sh](https://github.com/fkunn1326/wsl-ipa-sample/blob/master/build.sh)や[Info.plist](https://github.com/fkunn1326/wsl-ipa-sample/blob/master/assets/Info.plist)を参考にして、いろいろやったらいい
 あとはそれを`.ipa`に名前を変更して、AltStoreやLiveContainerなど好きな方法で実機にいれたらいい。
 
 ## 4. トラブルシューティング
